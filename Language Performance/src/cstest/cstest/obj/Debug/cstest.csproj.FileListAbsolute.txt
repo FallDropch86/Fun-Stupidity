@@ -1,0 +1,7 @@
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Fun-Stupidity\Language Performance\src\cstest\cstest\bin\Debug\cstest.exe.config
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Fun-Stupidity\Language Performance\src\cstest\cstest\bin\Debug\cstest.exe
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Fun-Stupidity\Language Performance\src\cstest\cstest\bin\Debug\cstest.pdb
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Fun-Stupidity\Language Performance\src\cstest\cstest\obj\Debug\cstest.csproj.AssemblyReference.cache
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Fun-Stupidity\Language Performance\src\cstest\cstest\obj\Debug\cstest.csproj.CoreCompileInputs.cache
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Fun-Stupidity\Language Performance\src\cstest\cstest\obj\Debug\cstest.exe
+C:\Users\XxFallDrop86xX\Software\Development\Own projects\Fun-Stupidity\Language Performance\src\cstest\cstest\obj\Debug\cstest.pdb
